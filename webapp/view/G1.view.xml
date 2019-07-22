@@ -6,6 +6,7 @@
 					<content>
 						<Label text=" this is First GIt hub "/>
              <Button text ="added button  here"/>
+             <Label text="added Label here"/>
 					</content>
 				</Page>
 			</pages>
