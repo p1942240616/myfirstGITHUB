@@ -5,10 +5,7 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 						<Label text=" this is First GIt hub "/>
-<<<<<<< master
-				<!--<Text text="added text format"/>-->
-=======
->>>>>>> 6852617 i added new button 
+             <Button text ="added button  here"/>
 					</content>
 				</Page>
 			</pages>
